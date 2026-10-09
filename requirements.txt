@@ -1,0 +1,4 @@
+# Infrastructure Lab Dependencies
+# Forensic & Log Analysis Engine
+evtx-hound @ git+https://github.com/ZlightkunZ/evtx-hound.git
+impacket>=0.10.0
